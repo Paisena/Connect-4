@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\m8ame\OneDrive\Documents\UCSC\UCSC Year 3 FALL\CMPM 123(Advanced Programming)\Code\Connect-4\Connect-4\connect-4-starter\build\CMakeFiles\f4c5ea1b943f79e4809db5f957f7cf30\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{699E6FD7-E19F-3CEF-9944-44CB3BE1A3FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
